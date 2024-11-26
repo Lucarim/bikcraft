@@ -1,16 +1,13 @@
 .header-bg {
   background-color: var(--cor-12);
 }
-.header {
+header .header {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
   gap: 1.125rem;
   justify-content: space-between;
-  box-sizing: border-box;
   padding: 1.675rem;
-  max-width: 1200px;
-  margin: 0 auto;
 }
 .header-menu {
   display: flex;
