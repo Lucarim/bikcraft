@@ -13,7 +13,8 @@
 .footer-contato ul {
   margin-bottom: 2rem;
 }
-.footer-contato li {
+.footer-contato li,
+.footer-informacoes li {
   margin-bottom: 1rem;
 }
 .footer-contato li:nth-child(even):after {
