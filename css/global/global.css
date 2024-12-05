@@ -6,7 +6,10 @@ h3,
 p,
 ul,
 li,
-blockquote {
+blockquote,
+dd,
+dt,
+dl {
   margin: 0;
   padding: 0;
 }
